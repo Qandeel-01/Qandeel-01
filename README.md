@@ -134,6 +134,25 @@ qandeel@github:~$ git stats
 ---
 
 ```bash
+qandeel@github:~$ git log --graph
+```
+
+<br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qandeel-01/Qandeel-01/output/github-contribution-grid-snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Qandeel-01/Qandeel-01/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<br>
+
+---
+
+```bash
 qandeel@github:~$ neofetch
 ```
 
