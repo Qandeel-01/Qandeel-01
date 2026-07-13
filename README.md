@@ -139,5 +139,10 @@
 </div>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Qandeel-01/ml-crop-yield-classification/pull/1) in [Qandeel-01/ml-crop-yield-classification](https://github.com/Qandeel-01/ml-crop-yield-classification)
+2. 💪 Opened PR [#1](https://github.com/Qandeel-01/ml-crop-yield-classification/pull/1) in [Qandeel-01/ml-crop-yield-classification](https://github.com/Qandeel-01/ml-crop-yield-classification)
+3. 🔒 Closed issue [#2](https://github.com/Qandeel-01/SVHN-Digit-Recognition-with-CNNs/issues/2) in [Qandeel-01/SVHN-Digit-Recognition-with-CNNs](https://github.com/Qandeel-01/SVHN-Digit-Recognition-with-CNNs)
+4. ❗ Opened issue [#2](https://github.com/Qandeel-01/SVHN-Digit-Recognition-with-CNNs/issues/2) in [Qandeel-01/SVHN-Digit-Recognition-with-CNNs](https://github.com/Qandeel-01/SVHN-Digit-Recognition-with-CNNs)
+5. 💪 Opened PR [#1](https://github.com/Qandeel-01/SVHN-Digit-Recognition-with-CNNs/pull/1) in [Qandeel-01/SVHN-Digit-Recognition-with-CNNs](https://github.com/Qandeel-01/SVHN-Digit-Recognition-with-CNNs)
 <!--END_SECTION:activity-->
 
