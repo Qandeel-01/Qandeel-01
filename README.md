@@ -6,17 +6,17 @@
 
 ---
 
-### 👩‍💻 About Me
+###  About Me
 
-- 🔭 Currently building **Scene Change Detection using Neural Radiance Fields (NeRF)**
-- 🌱 Learning **Neural rendering · 3D scene reconstruction · NeRF architectures**
-- 🛰️ Passionate about **computer vision, geospatial intelligence, and full-stack web dev**
-- 🌍 Based in **Pakistan** — open to collaboration and interesting problems
-- 📫 Reach me at **qandeelf.2003@gmail.com**
+-  Currently building **Scene Change Detection using Neural Radiance Fields (NeRF)**
+-  Learning **Neural rendering · 3D scene reconstruction · NeRF architectures**
+-  Passionate about **computer vision, geospatial intelligence, and full-stack web dev**
+-  Based in **Pakistan** — open to collaboration and interesting problems
+-  Reach me at **qandeelf.2003@gmail.com**
 
 ---
 
-### 🚀 Latest Projects
+###  Latest Projects
 
 <div align="center">
 
@@ -28,7 +28,7 @@
 
 ---
 
-### 📂 More Projects
+###  More Projects
 
 <div align="center">
 
@@ -47,7 +47,7 @@
 
 <div align="center">
 
-| 🛰️ Geo-Intelligence | 🤖 Computer Vision | 🌐 Full-Stack Dev | 🎮 Game Dev |
+|  Geo-Intelligence |  Computer Vision |  Full-Stack Dev |  Game Dev |
 |:---:|:---:|:---:|:---:|
 | Risk dashboards, AHP scoring, interactive maps | PyTorch · AlbuNet · Satellite imagery | React · Node.js · Express · MySQL | Pygame · Python |
 
@@ -55,7 +55,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
 
@@ -73,7 +73,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+###  Contribution Snake
 
 <div align="center">
 
@@ -86,7 +86,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages**
 
@@ -126,7 +126,7 @@
 
 ---
 
-### 🤝 Connect With Me
+###  Connect With Me
 
 <div align="center">
 
@@ -139,7 +139,7 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Qandeel-01/ml-crop-yield-classification/pull/1) in [Qandeel-01/ml-crop-yield-classification](https://github.com/Qandeel-01/ml-crop-yield-classification)
+1.  Merged PR [#1](https://github.com/Qandeel-01/ml-crop-yield-classification/pull/1) in [Qandeel-01/ml-crop-yield-classification](https://github.com/Qandeel-01/ml-crop-yield-classification)
 2. 💪 Opened PR [#1](https://github.com/Qandeel-01/ml-crop-yield-classification/pull/1) in [Qandeel-01/ml-crop-yield-classification](https://github.com/Qandeel-01/ml-crop-yield-classification)
 3. 🔒 Closed issue [#2](https://github.com/Qandeel-01/SVHN-Digit-Recognition-with-CNNs/issues/2) in [Qandeel-01/SVHN-Digit-Recognition-with-CNNs](https://github.com/Qandeel-01/SVHN-Digit-Recognition-with-CNNs)
 4. ❗ Opened issue [#2](https://github.com/Qandeel-01/SVHN-Digit-Recognition-with-CNNs/issues/2) in [Qandeel-01/SVHN-Digit-Recognition-with-CNNs](https://github.com/Qandeel-01/SVHN-Digit-Recognition-with-CNNs)
