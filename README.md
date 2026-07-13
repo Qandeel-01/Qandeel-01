@@ -146,3 +146,4 @@
 5. 💪 Opened PR [#1](https://github.com/Qandeel-01/SVHN-Digit-Recognition-with-CNNs/pull/1) in [Qandeel-01/SVHN-Digit-Recognition-with-CNNs](https://github.com/Qandeel-01/SVHN-Digit-Recognition-with-CNNs)
 <!--END_SECTION:activity-->
 
+
