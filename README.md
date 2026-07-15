@@ -46,6 +46,11 @@
 ### Highlights
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#546](https://github.com/opengeos/segment-geospatial/pull/546) in [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial)
+2. 💪 Opened PR [#1398](https://github.com/earthaccess-dev/earthaccess/pull/1398) in [earthaccess-dev/earthaccess](https://github.com/earthaccess-dev/earthaccess)
+3. 🎉 Merged PR [#1](https://github.com/Qandeel-01/ml-crop-yield-classification/pull/1) in [Qandeel-01/ml-crop-yield-classification](https://github.com/Qandeel-01/ml-crop-yield-classification)
+4. 💪 Opened PR [#1](https://github.com/Qandeel-01/ml-crop-yield-classification/pull/1) in [Qandeel-01/ml-crop-yield-classification](https://github.com/Qandeel-01/ml-crop-yield-classification)
+5. 🔒 Closed issue [#2](https://github.com/Qandeel-01/SVHN-Digit-Recognition-with-CNNs/issues/2) in [Qandeel-01/SVHN-Digit-Recognition-with-CNNs](https://github.com/Qandeel-01/SVHN-Digit-Recognition-with-CNNs)
 <!--END_SECTION:activity-->
 
 ---
