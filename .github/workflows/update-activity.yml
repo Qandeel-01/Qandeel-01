@@ -21,3 +21,5 @@ jobs:
         with:
           COMMIT_MSG: 'chore: refresh recent activity'
           MAX_LINES: 5
+          SECTION_NAME: 'activity'
+          FILTER_EVENTS: 'IssueCommentEvent,IssuesEvent,PullRequestEvent,ReleaseEvent'
