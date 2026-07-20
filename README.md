@@ -1,64 +1,33 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Hi+there,+I'm+Qandeel!;Geospatial+AI+Engineer;Neural+Rendering+Enthusiast;Full-Stack+Developer)](https://github.com/Qandeel-01)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-v1.svg"/><img src="assets/header-v1.svg" alt="Qandeel Fatima"/></picture>
+
+<a href="mailto:qandeelf.2003@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square" alt="Email"/></picture></a>
+<a href="https://x.com/saturndxst"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/X-ffffff?style=flat-square" alt="X"/></picture></a>
+<a href="https://github.com/Qandeel-01"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=ffffff"/><img src="https://img.shields.io/badge/GITHUB-ffffff?style=flat-square&logo=github&logoColor=000000" alt="GitHub"/></picture></a>
 
 </div>
 
----
-
-### About Me
-
-- Currently building **Scene Change Detection using Neural Radiance Fields (NeRF)**
-- Learning **Neural rendering · 3D scene reconstruction · NeRF architectures**
-- Passionate about **computer vision, geospatial intelligence, and full-stack web dev**
-- Based in **Pakistan** open to collaboration and interesting problems
-- Reach me at **qandeelf.2003@gmail.com**
-
----
-
-### Latest Projects
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"/><img src="assets/s01.svg" alt="01 — whoami"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="About Qandeel"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"/><img src="assets/s02.svg" alt="02 — system map"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/ecosystem.svg"/><img src="assets/ecosystem.svg" alt="Project ecosystem"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="03 — projects"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" alt="6 projects"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"/><img src="assets/s04.svg" alt="04 — telemetry"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/telemetry.svg"/><img src="assets/telemetry.svg" alt="Animated development telemetry"/></picture>
 
 <div align="center">
 
-[![Black-Sky-Sentinel](https://github-readme-stats.vercel.app/api/pin/?username=Qandeel-01&repo=Black-Sky-Sentinel&theme=tokyonight&title_color=A855F7&icon_color=A855F7)](https://github.com/Qandeel-01/Black-Sky-Sentinel)
-&nbsp;
-[![digital-building-footprint-identification](https://github-readme-stats.vercel.app/api/pin/?username=Qandeel-01&repo=digital-building-footprint-identification&theme=tokyonight&title_color=A855F7&icon_color=A855F7)](https://github.com/Qandeel-01/digital-building-footprint-identification)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/github-stats.svg"/><img src="assets/github-stats.svg" width="97%" alt="GitHub statistics and repository languages"/></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Qandeel-01&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=Qandeel-01&bg_color=00000000&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity"/></picture>
 
 </div>
 
----
-
-### More Projects
-
-<div align="center">
-
-| Project | Stack | Description |
-|:--------|:------|:------------|
-| [**Athire**](https://github.com/Qandeel-01/Athire) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | Job portal platform |
-| [**Py-runner**](https://github.com/Qandeel-01/Py-runner) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-4ECDC4?style=flat-square&logo=python&logoColor=white) | Python game engine |
-| [**Black-Sky-Sentinel**](https://github.com/Qandeel-01/Black-Sky-Sentinel) | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Satellite data visualization |
-| [**Building Footprint ID**](https://github.com/Qandeel-01/digital-building-footprint-identification) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ML-based building detection |
-
-</div>
-
----
-
-### Highlights
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1343](https://github.com/opengeos/leafmap/pull/1343) in [opengeos/leafmap](https://github.com/opengeos/leafmap)
-2. 💪 Opened PR [#546](https://github.com/opengeos/segment-geospatial/pull/546) in [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial)
-3. 💪 Opened PR [#1398](https://github.com/earthaccess-dev/earthaccess/pull/1398) in [earthaccess-dev/earthaccess](https://github.com/earthaccess-dev/earthaccess)
-4. 🎉 Merged PR [#1](https://github.com/Qandeel-01/ml-crop-yield-classification/pull/1) in [Qandeel-01/ml-crop-yield-classification](https://github.com/Qandeel-01/ml-crop-yield-classification)
-5. 💪 Opened PR [#1](https://github.com/Qandeel-01/ml-crop-yield-classification/pull/1) in [Qandeel-01/ml-crop-yield-classification](https://github.com/Qandeel-01/ml-crop-yield-classification)
-<!--END_SECTION:activity-->
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Qandeel-01&theme=tokyonight&hide_border=true&count_private=true&show_icons=true&title_color=A855F7&icon_color=A855F7)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Qandeel-01&theme=tokyonight&hide_border=true&layout=compact&title_color=A855F7&icon_color=A855F7)
-
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s05.svg"/><img src="assets/s05.svg" alt="05 — the route"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/timeline.svg"/><img src="assets/timeline.svg" alt="Development timeline"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/experience.svg"/><img src="assets/experience.svg" alt="Open source contributions"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/><img src="assets/s06.svg" alt="06 — stack"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"/><img src="assets/stack.svg" alt="Technical stack"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="Current status"/></picture>
