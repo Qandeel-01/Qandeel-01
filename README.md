@@ -33,9 +33,9 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="Current status"/></picture>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1343](https://github.com/opengeos/leafmap/pull/1343) in [opengeos/leafmap](https://github.com/opengeos/leafmap)
-2. 💪 Opened PR [#546](https://github.com/opengeos/segment-geospatial/pull/546) in [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial)
-3. 💪 Opened PR [#1398](https://github.com/earthaccess-dev/earthaccess/pull/1398) in [earthaccess-dev/earthaccess](https://github.com/earthaccess-dev/earthaccess)
-4. 🎉 Merged PR [#1](https://github.com/Qandeel-01/ml-crop-yield-classification/pull/1) in [Qandeel-01/ml-crop-yield-classification](https://github.com/Qandeel-01/ml-crop-yield-classification)
-5. 💪 Opened PR [#1](https://github.com/Qandeel-01/ml-crop-yield-classification/pull/1) in [Qandeel-01/ml-crop-yield-classification](https://github.com/Qandeel-01/ml-crop-yield-classification)
+1. 💪 Opened PR [#869](https://github.com/opengeos/geoai/pull/869) in [opengeos/geoai](https://github.com/opengeos/geoai)
+2. 🗣 Commented on [#546](https://github.com/opengeos/segment-geospatial/pull/546#issuecomment-5066595045) in [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial)
+3. 💪 Opened PR [#1343](https://github.com/opengeos/leafmap/pull/1343) in [opengeos/leafmap](https://github.com/opengeos/leafmap)
+4. 💪 Opened PR [#546](https://github.com/opengeos/segment-geospatial/pull/546) in [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial)
+5. 💪 Opened PR [#1398](https://github.com/earthaccess-dev/earthaccess/pull/1398) in [earthaccess-dev/earthaccess](https://github.com/earthaccess-dev/earthaccess)
 <!--END_SECTION:activity-->
