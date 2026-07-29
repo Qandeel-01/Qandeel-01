@@ -28,7 +28,7 @@
   <text class="mono rise a5" x="154" y="160" font-size="15" fill="var(--bone)">NeRF architectures Â· 3D scene reconstruction Â· Instant-NGP</text>
 
   <text class="mono rise a6" x="48" y="192" font-size="12" fill="var(--muted)" letter-spacing="2">TOOLING</text>
-  <text class="mono rise a6" x="154" y="192" font-size="15" fill="var(--bone)">Git Â· Jupyter Â· VS Code Â· QGIS Â· Conda Â· Docker</text>
+  <text class="mono rise a6" x="154" y="192" font-size="15" fill="var(--bone)">Git Â· Jupyter Â· VS Code Â· QGIS Â· Conda Â· Docker Â· RapidMiner</text>
 
   <text class="mono rise a7" x="48" y="224" font-size="12" fill="var(--muted)" letter-spacing="2">GAME</text>
   <text class="mono rise a7" x="154" y="224" font-size="15" fill="var(--bone)">Pygame Â· 2D game systems Â· scene management</text>
