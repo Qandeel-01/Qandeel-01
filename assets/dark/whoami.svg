@@ -10,7 +10,7 @@
 :root { --bone: #E0E0E0; --muted: #888888; --dim: #666666; --rule: #333333; --accent: #AAAAAA; --node-bg: #1A1A1A; --core-bg: #222222; --ghost: #2A2A2A; --ink: #E0E0E0; }
   </style>
 
-  <text class="mono rise a1" x="48" y="32" font-size="16" fill="var(--bone)">building scene change detection using Neural Radiance Fields â€” at the intersection of CV and geospatial.</text>
+  <text class=”mono rise a1” x=”48” y=”32” font-size=”16” fill=”var(--bone)”>building SIGMA â€” device-free WiFi localization treated as a geodetic measurement problem, not a classification task.</text>
   <text class="mono rise a2" x="48" y="60" font-size="16" fill="var(--bone)">contributing to open-source geospatial tooling â€” leafmap Â· segment-geospatial Â· earthaccess.</text>
   <text class="mono rise a3" x="48" y="88" font-size="15" fill="var(--muted)">drawn to problems where AI meets the physical world. clean pipelines and meaningful data in equal measure.</text>
 
