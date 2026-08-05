@@ -51,7 +51,7 @@
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r6" transform="translate(0 570)">
-      <text class="title" x="48" y="24">06 / SIGMA — GEODETIC WIFI LOCALIZATION  (Aug 2026)</text>
+      <text class="title" x="48" y="24">06 / SIGMA — GEODETIC WIFI LOCALIZATION  (Aug 4, 2026)</text>
       <text class="copy" x="48" y="49">Device-free indoor positioning reframed as a geodetic measurement problem, not a room-scale classification task.</text>
       <text class="copy" x="48" y="68">Locates people via body-induced multipath perturbations in ambient WiFi and places them on a georeferenced map with propagated error ellipses.</text>
       <text class="meta" x="48" y="87">PYTHON · WIFI CSI · MULTIPATH · GEODESY · COVARIANCE PROPAGATION · RESEARCH</text>
