@@ -19,39 +19,39 @@
       <text class="title" x="48" y="24">01 / BLACK-SKY-SENTINEL</text>
       <text class="copy" x="48" y="49">Real-time satellite data visualization platform for monitoring atmospheric and geospatial events.</text>
       <text class="copy" x="48" y="68">Renders live orbital data with an interactive globe interface and event-driven alert system.</text>
-      <text class="meta" x="48" y="87">HTML5 Â· JAVASCRIPT Â· SATELLITE DATA Â· GEOSPATIAL Â· VISUALIZATION</text>
+      <text class="meta" x="48" y="87">HTML5 · JAVASCRIPT · SATELLITE DATA · GEOSPATIAL · VISUALIZATION</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r2" transform="translate(0 130)">
       <text class="title" x="48" y="24">02 / DIGITAL BUILDING FOOTPRINT IDENTIFICATION</text>
       <text class="copy" x="48" y="49">ML pipeline for detecting and extracting building footprints from satellite imagery using deep learning.</text>
       <text class="copy" x="48" y="68">Processes high-resolution GeoTIFF imagery with semantic segmentation to produce precise vector outputs.</text>
-      <text class="meta" x="48" y="87">PYTHON Â· TENSORFLOW Â· SEMANTIC SEGMENTATION Â· GEOTIFF Â· GDAL Â· ML</text>
+      <text class="meta" x="48" y="87">PYTHON · TENSORFLOW · SEMANTIC SEGMENTATION · GEOTIFF · GDAL · ML</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r3" transform="translate(0 240)">
       <text class="title" x="48" y="24">03 / ATHIRE</text>
       <text class="copy" x="48" y="49">Full-stack job portal platform connecting employers and candidates with smart matching and application tracking.</text>
       <text class="copy" x="48" y="68">Features real-time notifications, role-based dashboards, and a REST API with JWT authentication.</text>
-      <text class="meta" x="48" y="87">REACT Â· NODE.JS Â· EXPRESS Â· JAVASCRIPT Â· REST API Â· JWT</text>
+      <text class="meta" x="48" y="87">REACT · NODE.JS · EXPRESS · JAVASCRIPT · REST API · JWT</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r4" transform="translate(0 350)">
       <text class="title" x="48" y="24">04 / PY-RUNNER</text>
       <text class="copy" x="48" y="49">Lightweight Python game engine built on Pygame with a scene manager, sprite system, and event loop.</text>
       <text class="copy" x="48" y="68">Designed as a minimal framework for building 2D games without the overhead of larger engines.</text>
-      <text class="meta" x="48" y="87">PYTHON Â· PYGAME Â· GAME ENGINE Â· 2D Â· SCENE MANAGEMENT</text>
+      <text class="meta" x="48" y="87">PYTHON · PYGAME · GAME ENGINE · 2D · SCENE MANAGEMENT</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r5" transform="translate(0 460)">
       <text class="title" x="48" y="24">05 / ML CROP YIELD CLASSIFICATION</text>
       <text class="copy" x="48" y="49">Machine learning model for classifying and predicting crop yield outcomes from agricultural sensor data.</text>
       <text class="copy" x="48" y="68">Applies feature engineering and ensemble methods to surface actionable insights from raw field measurements.</text>
-      <text class="meta" x="48" y="87">PYTHON Â· SCIKIT-LEARN Â· ML Â· DATA ANALYSIS Â· CLASSIFICATION Â· AGRICULTURE</text>
+      <text class="meta" x="48" y="87">PYTHON · SCIKIT-LEARN · ML · DATA ANALYSIS · CLASSIFICATION · AGRICULTURE</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r6" transform="translate(0 570)">
-      <text class="title" x="48" y="24">06 / SIGMA — GEODETIC WIFI LOCALIZATION  (Aug 2026)</text>
+      <text class="title" x="48" y="24">06 / SIGMA — GEODETIC WIFI LOCALIZATION  (Aug 4, 2026)</text>
       <text class="copy" x="48" y="49">Device-free indoor positioning reframed as a geodetic measurement problem, not a room-scale classification task.</text>
       <text class="copy" x="48" y="68">Locates people via body-induced multipath perturbations in ambient WiFi and places them on a georeferenced map with propagated error ellipses.</text>
       <text class="meta" x="48" y="87">PYTHON · WIFI CSI · MULTIPATH · GEODESY · COVARIANCE PROPAGATION · RESEARCH</text>
