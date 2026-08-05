@@ -51,10 +51,10 @@
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r6" transform="translate(0 570)">
-      <text class="title" x="48" y="24">06 / SCENE CHANGE DETECTION — NeRF  (in progress)</text>
-      <text class="copy" x="48" y="49">Research project applying Neural Radiance Fields to detect and quantify scene changes from multi-temporal imagery.</text>
-      <text class="copy" x="48" y="68">Explores 3D scene reconstruction pipelines for identifying structural differences over time at the pixel and voxel level.</text>
-      <text class="meta" x="48" y="87">PYTHON · NERF · NEURAL RENDERING · 3D RECONSTRUCTION · COMPUTER VISION · RESEARCH</text>
+      <text class="title" x="48" y="24">06 / SIGMA — GEODETIC WIFI LOCALIZATION  (Aug 2026)</text>
+      <text class="copy" x="48" y="49">Device-free indoor positioning reframed as a geodetic measurement problem, not a room-scale classification task.</text>
+      <text class="copy" x="48" y="68">Locates people via body-induced multipath perturbations in ambient WiFi and places them on a georeferenced map with propagated error ellipses.</text>
+      <text class="meta" x="48" y="87">PYTHON · WIFI CSI · MULTIPATH · GEODESY · COVARIANCE PROPAGATION · RESEARCH</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
   </g>
