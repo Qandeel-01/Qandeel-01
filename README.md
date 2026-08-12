@@ -33,9 +33,9 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="Current status"/></picture>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#546](https://github.com/opengeos/segment-geospatial/pull/546) in [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial)
-2. 🎉 Merged PR [#1343](https://github.com/opengeos/leafmap/pull/1343) in [opengeos/leafmap](https://github.com/opengeos/leafmap)
-3. 🗣 Commented on [#1343](https://github.com/opengeos/leafmap/pull/1343#issuecomment-5084499903) in [opengeos/leafmap](https://github.com/opengeos/leafmap)
-4. 🎉 Merged PR [#869](https://github.com/opengeos/geoai/pull/869) in [opengeos/geoai](https://github.com/opengeos/geoai)
-5. 💪 Opened PR [#869](https://github.com/opengeos/geoai/pull/869) in [opengeos/geoai](https://github.com/opengeos/geoai)
+1. 🎉 Merged PR [#1](https://github.com/Qandeel-01/pull-shark/pull/1) in [Qandeel-01/pull-shark](https://github.com/Qandeel-01/pull-shark)
+2. 💪 Opened PR [#1](https://github.com/Qandeel-01/pull-shark/pull/1) in [Qandeel-01/pull-shark](https://github.com/Qandeel-01/pull-shark)
+3. 🎉 Merged PR [#546](https://github.com/opengeos/segment-geospatial/pull/546) in [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial)
+4. 🎉 Merged PR [#1343](https://github.com/opengeos/leafmap/pull/1343) in [opengeos/leafmap](https://github.com/opengeos/leafmap)
+5. 🗣 Commented on [#1343](https://github.com/opengeos/leafmap/pull/1343#issuecomment-5084499903) in [opengeos/leafmap](https://github.com/opengeos/leafmap)
 <!--END_SECTION:activity-->
